@@ -7,6 +7,7 @@ namespace LAB5shared
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Test");
         }
     }
 }
